@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Wed Dec  1 14:47:50 2021
+# Process ID: 6020
+# Current directory: C:/Users/chmun/Programming/Artix7/DDR_UART/DDR_UART.runs/clk_wiz_72m_synth_1
+# Command line: vivado.exe -log clk_wiz_72m.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source clk_wiz_72m.tcl
+# Log file: C:/Users/chmun/Programming/Artix7/DDR_UART/DDR_UART.runs/clk_wiz_72m_synth_1/clk_wiz_72m.vds
+# Journal file: C:/Users/chmun/Programming/Artix7/DDR_UART/DDR_UART.runs/clk_wiz_72m_synth_1\vivado.jou
+#-----------------------------------------------------------
+source clk_wiz_72m.tcl -notrace

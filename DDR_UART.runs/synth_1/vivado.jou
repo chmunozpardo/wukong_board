@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Thu Dec  2 13:10:29 2021
+# Process ID: 29512
+# Current directory: C:/Users/chmun/Programming/Artix7/DDR_UART/DDR_UART.runs/synth_1
+# Command line: vivado.exe -log led_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source led_top.tcl
+# Log file: C:/Users/chmun/Programming/Artix7/DDR_UART/DDR_UART.runs/synth_1/led_top.vds
+# Journal file: C:/Users/chmun/Programming/Artix7/DDR_UART/DDR_UART.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source led_top.tcl -notrace
